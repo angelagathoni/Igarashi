@@ -1,0 +1,46 @@
+.navbar-brand{
+    color:#19692c ;
+    font-family: "Manjari Bold";
+}
+.jumbotron {
+    background-color: #491217;
+    color: #adb5bd;
+}
+body{
+    background-color: #721c24;
+}
+.b{
+    background-color: lightcoral;
+}
+h3{
+    font-weight: bolder;
+    font-family: Saab;
+    font-size: 25px;
+    color: black;
+}
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.d{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 15px;
+}
+h4{
+    color: black;
+    background-color: #95999c;
+    text-align: center;
+}
+.c{
+    background-color: #95999c;
+}
+.modal-content{
+    background-color:darkslategrey;
+    color: white;
+}
+
